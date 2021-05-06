@@ -7,7 +7,7 @@ Aires.
 
 ## Experience
 
-I'm working as web developer since November 2020, using PHP/Laravel and C#.
+I've been working as web developer since November 2020, using PHP/Laravel and C#.
 
 ## Courses
 
