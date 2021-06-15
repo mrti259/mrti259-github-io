@@ -26,7 +26,8 @@ See my FreeCodeCamp.org certifications at [freecodecamp.org/mgarg](https://www.f
 - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/mgarg/responsive-web-design)
 
 - [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mgarg/javascript-algorithms-and-data-structures)
-  [Front End Libraries Certification](https://www.freecodecamp.org/certification/mgarg/front-end-libraries)
+
+- [Front End Libraries Certification](https://www.freecodecamp.org/certification/mgarg/front-end-libraries)
 
 - [APIs and Microservices Certification](https://www.freecodecamp.org/certification/mgarg/apis-and-microservices)
 
