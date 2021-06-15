@@ -2,27 +2,35 @@
 
 I'm a fullstack developer from San Isidro, Buenos Aires.
 
-Currently, I'm studying Computer Engineering at the University Of Buenos
-Aires.
+Currently, I'm studying Computer Engineering at the University Of Buenos Aires.
+
+## Technologies I use
+
+  HTML5 | CSS3 | Javascript | Bootstrap4 | jQuery
+  C#/.NetCore | PHP/Laravel | Python/Flask | NodeJs | C
+  mySQL | SQL Server | Git | Vim/NeoVim | Debian
 
 ## Experience
 
-I've been working as web developer since November 2020, using PHP/Laravel and C#.
+I've been working as web developer since November 2020, using PHP/Laravel and C#/.Net Core.
 
-## Courses
+## Education
 
-  Programming - *Centro de Formación Profesional Nº18* | August 2019 - June 2020
+Computer Engineering | *Universidad de Buenos Aires* | Marzo 2020 - Today | On course
+Programming | *Centro de Formación Profesional Nº18* | August 2019 - June 2020 | Completed
 
 ## Certifications
 
 See my FreeCodeCamp.org certifications at [freecodecamp.org/mgarg](https://www.freecodecamp.org/mgarg)
 
-  - [Responsive Web Design Certification](https://www.freecodecamp.org/certification/mgarg/responsive-web-design)
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/mgarg/responsive-web-design)
 
-  - [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mgarg/javascript-algorithms-and-data-structures)
-  - [Front End Libraries Certification](https://www.freecodecamp.org/certification/mgarg/front-end-libraries)
+- [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/certification/mgarg/javascript-algorithms-and-data-structures)
+  [Front End Libraries Certification](https://www.freecodecamp.org/certification/mgarg/front-end-libraries)
 
-  - [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/mgarg/scientific-computing-with-python-v7)
+- [APIs and Microservices Certification](https://www.freecodecamp.org/certification/mgarg/apis-and-microservices)
+
+- [Scientific Computing with Python Certification](https://www.freecodecamp.org/certification/mgarg/scientific-computing-with-python-v7)
 
 ## Projects
 
