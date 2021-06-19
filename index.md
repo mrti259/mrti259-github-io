@@ -2,13 +2,16 @@
 
 I'm a fullstack developer from San Isidro, Buenos Aires.
 
-Currently, I'm studying Computer Engineering at the University Of Buenos Aires.
+Currently, I'm studying Information Systems Engineering at the University Of Buenos Aires.
 
 ## Technologies I use
-
-  HTML5 | CSS3 | Javascript | Bootstrap4 | jQuery
-  C#/.NetCore | PHP/Laravel | Python/Flask | NodeJs | C
-  mySQL | SQL Server | Git | Vim/NeoVim | Debian
+ 
+ 
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| HTML5 | CSS3 | Javascript | Bootstrap4 | jQuery |
+| C#/.NetCore | PHP/Laravel | Python/Flask | NodeJs | C |
+| mySQL | SQL Server | Git | Vim/NeoVim | Debian |
 
 ## Experience
 
@@ -16,8 +19,11 @@ I've been working as web developer since November 2020, using PHP/Laravel and C#
 
 ## Education
 
-Computer Engineering | *Universidad de Buenos Aires* | Marzo 2020 - Today | On course
-Programming | *Centro de Formación Profesional Nº18* | August 2019 - June 2020 | Completed
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Information Systems Engineering | *Universidad de Buenos Aires* | March 2020 - Today | On course |
+| Programming | *Centro de Formación Profesional Nº18* | August 2019 - June 2020 | Completed |
 
 ## Certifications
 
